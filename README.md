@@ -1,6 +1,6 @@
-# nuxt-course
+# dummy-blog
 
-> Nuxt.js course for Udemy
+Fully functioning blog application made with SSR Vue.js, using Nuxt. Auth builtin with firebase backend.
 
 ## Build Setup
 
